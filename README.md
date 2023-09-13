@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeroblackcat101
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JS & REACT
+- 🌱 I’m currently learning Advanced Python and JS Concepts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
